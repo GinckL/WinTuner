@@ -7,6 +7,10 @@
 [![OS](https://img.shields.io/badge/OS-Windows_10%20%7C%2011-blue?style=for-the-badge&logo=windows)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#)
 [![Activity](https://img.shields.io/badge/Activity-Active-brightgreen?style=for-the-badge)](#)
+
+<br/>
+</div>
+
 ---
 
 > [!WARNING]
