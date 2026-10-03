@@ -9,6 +9,9 @@
 [![Activity](https://img.shields.io/badge/Activity-Active-brightgreen?style=for-the-badge)](#)
 
 <br/>
+
+<img width="1350" alt="WinTuner Overview" src="https://github.com/user-attachments/assets/5c1b3ad0-8888-4bd3-9f29-931293517bfb" />
+
 </div>
 
 ---
@@ -24,6 +27,31 @@
 > 1. Your exact Windows version (e.g., Windows 11 23H2).
 > 2. What action you performed.
 > 3. What the expected vs. actual result was.
+
+---
+
+## 🖼️ Application Interface
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Dashboard & Analytics</b></td>
+      <td align="center"><b>Startup & Debloat</b></td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://github.com/user-attachments/assets/ab93ae5b-c172-40e4-8d9b-e010afc98a9f" alt="Dashboard" /></td>
+      <td><img width="100%" src="https://github.com/user-attachments/assets/1fe058a5-5dff-4cab-a883-bcd03add1d9c" alt="Startup Manager" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>System Customization</b></td>
+      <td align="center"><b>Disk Cleaner & Optimization</b></td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://github.com/user-attachments/assets/1d1bd3bb-acd2-450d-8017-d25bafa485c8" alt="Customization Settings" /></td>
+      <td><img width="100%" src="https://github.com/user-attachments/assets/836bb578-996c-4a06-8fc8-50549927bdd7" alt="Disk Cleaner" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
